@@ -1,0 +1,32 @@
+_repo: Religious-Life-of-Virginia-in-the-Seventeenth-CenturyThe-Faith-of-Our-Fathers_28634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brydon, G. MacLaren (George MacLaren)
+    alias: Brydon, George MacLaren
+    birthdate: 1875
+    deathdate: 1963
+    gutenberg_agent_id: '33463'
+    url: http://www.gutenberg.org/2009/agents/33463
+description: ''
+gutenberg_issued: '2009-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Virginia -- Religion'
+- !lcsh 'Church of England in Virginia'
+- !lcc 'BX'
+- !lcsh 'Virginia -- Church history'
+title: 'Religious Life of Virginia in the Seventeenth Century
+
+  The Faith of Our Fathers'
+url: http://www.gutenberg.org/ebooks/28634
